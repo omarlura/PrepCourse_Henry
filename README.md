@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Este repositorio es del mod 2 Precourse Henry.
+Este proyecto es una prueba de como crar un repositorio y clonarlo desde Github a mi escritorio local
